@@ -13,4 +13,5 @@ plt.plot(t,u,color ="r")
 plt.title("Serie en funcion de tiempo")
 plt.xlabel("Tiempo")
 plt.ylabel("Serie")
+plt.save("serie.png")
 plt.show
